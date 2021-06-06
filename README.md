@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# First Time React And TypeScript
 
 Simple Todo List Using React And TypeScript
